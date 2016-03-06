@@ -1,0 +1,13 @@
+package products;
+
+
+import factory.IProducts;
+
+/**
+	作者：jist
+	时间：下午03:45:29
+	操作：TODO（描述操作原因）
+ **/
+public class FoodProducts implements IProducts {
+
+}
